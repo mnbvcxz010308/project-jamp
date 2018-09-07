@@ -11,7 +11,6 @@ At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidie
 
 Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/people"></amp-img>
 
 Ea ullamcorper intellegebat pri!
 
